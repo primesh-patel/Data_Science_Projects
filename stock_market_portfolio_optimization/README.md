@@ -12,7 +12,7 @@ The goal of this project is to help investors:
 - **Minimize risks** using mathematical models and statistical analysis.  
 
 Key components of the project include:  
-1. **Data Collection**: Fetching historical stock price data.  
+1. **Data Collection**: Historical stock price data is fetched using the `yfinance` Python library.  
 2. **Risk Analysis**: Calculating metrics like standard deviation and covariance.  
 3. **Portfolio Optimization**: Using techniques such as:  
    - Markowitz Modern Portfolio Theory (MPT)  
@@ -22,7 +22,7 @@ Key components of the project include:
 ---
 
 ## 📁 Project Structure  
-- **`data/`**: Contains historical stock price datasets.  
+- **`data/`**: Contains datasets pulled via `yfinance`.  
 - **`notebooks/`**: Jupyter Notebooks with the project workflow.  
 - **`results/`**: Generated plots and analysis outputs.  
 - **`README.md`**: Project documentation (this file).  
@@ -47,4 +47,3 @@ Key components of the project include:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/primesh-patel/stock_portfolio_optimization.git  
-
