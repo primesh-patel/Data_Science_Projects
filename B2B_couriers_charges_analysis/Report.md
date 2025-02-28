@@ -20,6 +20,7 @@ The dataset contains information on total orders categorized by charge type, alo
 
 ## Visualization
 The pie chart provided visually represents the proportion of orders in each charge type, emphasizing the significant percentage of overcharged transactions.
+![B2B Courier Charge Analysis](https://raw.githubusercontent.com/username/repository/main/b2b_final.png)
 
 ## Conclusion
 The analysis reveals a major issue with overcharging in ABC's B2B courier transactions. It is crucial to address these discrepancies by reviewing the invoicing system and ensuring accurate billing practices. Steps should be taken to minimize errors and negotiate better pricing agreements with courier service providers.
