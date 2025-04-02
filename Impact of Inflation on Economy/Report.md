@@ -65,5 +65,5 @@ While long-term exchange rate trends align with inflation differentials, **short
 
 **Prepared by:** Primesh Kumar Patel  
 **Contact:** primeshpatelml@gmail.com  
-**GitHub Repository:** [Project Link]  
+**GitHub Repository:** https://github.com/primesh-patel/Data_Science_Projects/tree/main/Impact%20of%20Inflation%20on%20Economy
 
